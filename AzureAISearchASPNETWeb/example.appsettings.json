@@ -1,4 +1,4 @@
 {
-  "SearchServiceUri": "https://ai-search-multipurpose.search.windows.net",
-  "SearchServiceQueryApiKey": "XrzSJyxkyFTTVJftoaJJS0vbqNHJuLFRr3oXQYJYBVAzSeBLPMN8"
+  "SearchServiceUri": "<YOUR-SEARCH-SERVICE-URL>",
+  "SearchServiceQueryApiKey": "<YOUR-SEARCH-SERVICE-QUERY-API-KEY>"
 }
